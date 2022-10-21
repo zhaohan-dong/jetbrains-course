@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41fe663b-01ac-436e-a7a4-40a09ac17029" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Ex_Files_Learning_Python/Exercise Files/Ch3/calendars_start.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1ZpbTb2ggYa4GiVU9zqSfy418tg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;JSON" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Meeting_sche">
+    <configuration name="Meeting_sche" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Meeting_sche.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calendars_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_Learning_Python/Exercise Files/Ch3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_Learning_Python/Exercise Files/Ch3/calendars_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shell_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_Learning_Python/Exercise Files/Ch4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_Learning_Python/Exercise Files/Ch4/shell_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Meeting_sche" />
+        <item itemvalue="Python.scratch_1" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.calendars_start" />
+        <item itemvalue="Python.shell_start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41fe663b-01ac-436e-a7a4-40a09ac17029" name="Default Changelist" comment="" />
+      <created>1585538991128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585538991128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="111" key="#Code_Folding" timestamp="1585690727047">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="640" y="111" key="#Code_Folding/0.23.1440.817@0.23.1440.817" timestamp="1585690727047" />
+    <state x="578" y="109" width="800" height="717" key="#Intentions" timestamp="1585689778733">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="578" y="109" width="800" height="717" key="#Intentions/0.23.1440.817@0.23.1440.817" timestamp="1585689778733" />
+    <state x="369" y="105" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585689742429">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="369" y="105" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.817@0.23.1440.817" timestamp="1585689742429" />
+    <state x="415" y="267" key="FileChooserDialogImpl" timestamp="1585850268569">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="415" y="267" key="FileChooserDialogImpl/0.23.1440.815@0.23.1440.815" timestamp="1585850268569" />
+    <state width="1037" height="260" key="GridCell.Tab.0.bottom" timestamp="1585871649275">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="707" height="104" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1585850847932" />
+    <state width="1037" height="260" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585871649275" />
+    <state width="978" height="202" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585702934667" />
+    <state width="1037" height="260" key="GridCell.Tab.0.center" timestamp="1585871649275">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="707" height="104" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1585850847931" />
+    <state width="1037" height="260" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1585871649275" />
+    <state width="978" height="202" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585702934667" />
+    <state width="1037" height="260" key="GridCell.Tab.0.left" timestamp="1585871649274">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="707" height="104" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1585850847931" />
+    <state width="1037" height="260" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1585871649274" />
+    <state width="978" height="202" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585702934666" />
+    <state width="1037" height="260" key="GridCell.Tab.0.right" timestamp="1585871649275">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="707" height="104" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1585850847932" />
+    <state width="1037" height="260" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1585871649275" />
+    <state width="978" height="202" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585702934667" />
+    <state width="1037" height="260" key="GridCell.Tab.1.bottom" timestamp="1585871649276">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1037" height="260" key="GridCell.Tab.1.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585871649276" />
+    <state width="1037" height="260" key="GridCell.Tab.1.center" timestamp="1585871649276">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1037" height="260" key="GridCell.Tab.1.center/0.23.1440.817@0.23.1440.817" timestamp="1585871649276" />
+    <state width="1037" height="260" key="GridCell.Tab.1.left" timestamp="1585871649276">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1037" height="260" key="GridCell.Tab.1.left/0.23.1440.817@0.23.1440.817" timestamp="1585871649276" />
+    <state width="1037" height="260" key="GridCell.Tab.1.right" timestamp="1585871649276">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="1037" height="260" key="GridCell.Tab.1.right/0.23.1440.817@0.23.1440.817" timestamp="1585871649276" />
+    <state x="443" y="82" key="SettingsEditor" timestamp="1585850282987">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="443" y="82" key="SettingsEditor/0.23.1440.815@0.23.1440.815" timestamp="1585850282987" />
+    <state x="443" y="82" key="SettingsEditor/0.23.1440.817@0.23.1440.817" timestamp="1585689587360" />
+    <state x="397" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1585850196889">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="397" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1585850196889" />
+    <state width="600" height="408" key="javadoc.popup" timestamp="1585701488579">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="600" height="408" key="javadoc.popup/0.23.1440.821@0.23.1440.821" timestamp="1585701488579" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

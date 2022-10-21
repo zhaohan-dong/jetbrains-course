@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b258e92a-4814-4576-bc01-a6fc225e4e88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zpc5wvVy14bxAwyA7xjYOQyYxL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Python.dates_start">
+    <configuration name="classes_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2/classes_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conditionals_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2/conditionals_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dates_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch3/dates_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2/functions_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loops_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ex_Files_Learning_Python/Exercise Files/Ch2/loops_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dates_start" />
+        <item itemvalue="Python.classes_start" />
+        <item itemvalue="Python.loops_start" />
+        <item itemvalue="Python.conditionals_start" />
+        <item itemvalue="Python.functions_start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b258e92a-4814-4576-bc01-a6fc225e4e88" name="Default Changelist" comment="" />
+      <created>1585539296440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585539296440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585540473793">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="258" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.815@0.23.1440.815" timestamp="1585540473793" />
+    <state width="831" height="197" key="GridCell.Tab.0.bottom" timestamp="1585689424693">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="831" height="197" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1585543631492" />
+    <state width="831" height="197" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585689424693" />
+    <state width="831" height="197" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585689300081" />
+    <state width="831" height="197" key="GridCell.Tab.0.center" timestamp="1585689424693">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="831" height="197" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1585543631491" />
+    <state width="831" height="197" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1585689424693" />
+    <state width="831" height="197" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585689300080" />
+    <state width="831" height="197" key="GridCell.Tab.0.left" timestamp="1585689424692">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="831" height="197" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1585543631491" />
+    <state width="831" height="197" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1585689424692" />
+    <state width="831" height="197" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585689300080" />
+    <state width="831" height="197" key="GridCell.Tab.0.right" timestamp="1585689424693">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state width="831" height="197" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1585543631491" />
+    <state width="831" height="197" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1585689424693" />
+    <state width="831" height="197" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585689300080" />
+    <state x="438" y="49" key="SettingsEditor" timestamp="1585539806142">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="438" y="49" key="SettingsEditor/0.23.1440.815@0.23.1440.815" timestamp="1585539806142" />
+    <state x="613" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1585675681783">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="613" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1585675681783" />
+  </component>
+</project>

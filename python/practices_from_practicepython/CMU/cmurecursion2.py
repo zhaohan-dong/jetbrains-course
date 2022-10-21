@@ -1,0 +1,1 @@
+#!/usr/bin/python3def main():    x = int(input("Which Fibonacci number"))    print(fibonacci(x))def fibonacci(x):    if x == 1:        return 1    elif x == 2:        return 1    elif x > 2:        return fibonacci(x-1) + fibonacci(x-2)if __name__ == '__main__':    main()
