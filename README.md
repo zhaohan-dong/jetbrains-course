@@ -1,3 +1,3 @@
-# Python and Java Projects – JetBrains Academy
-Python and Java projects in JetBrains course during beta period. Current course content may differ. <br />
-https://www.jetbrains.com/academy/
+# Python and Java Projects – JetBrains Hyperskill
+Python and Java projects in JetBrains course during its beta period. Current course content may differ. <br />
+https://hyperskill.org/
